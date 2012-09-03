@@ -1,0 +1,20 @@
+/home/chenyi/20120815/0000
+0 		0		57835053	00:00:03	26 		573		d95830ce
+点击(1)		登陆用户(0)      uid/bid	行为时间	广告单元	广告id		地区guid 
+/浏览           /未登陆用户(1)	
+
+/home/chenyi/tmp/ad_to_regions
+73		79831755  
+广告id		地区guid
+
+/home/chenyi/tmp/ad_to_tags
+113		7	
+广告id		行业id
+
+/home/chenyi/tmp/id_to_guid
+0		16cd72bc
+地区id		地区guid
+		
+
+
+
